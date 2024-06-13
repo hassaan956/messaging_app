@@ -26,6 +26,11 @@ gem "stimulus-rails"
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
 
+# Installed by Mashrour
+gem 'semantic-ui-sass'
+gem 'jquery-rails'
+# End Installed by Mashrour
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
 
