@@ -29,6 +29,10 @@ gem "jbuilder"
 # Installed by Mashrour
 gem 'semantic-ui-sass'
 gem 'jquery-rails'
+
+gem 'bcrypt'
+gem 'hirb'
+gem 'byebug'
 # End Installed by Mashrour
 
 # Use Redis adapter to run Action Cable in production
